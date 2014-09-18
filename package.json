@@ -1,0 +1,21 @@
+{
+  "name": "ui-router-sample",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superbrothers/ui-router-sample.git"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Kazuki Suda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superbrothers/ui-router-sample/issues"
+  },
+  "homepage": "https://github.com/superbrothers/ui-router-sample",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-webserver": "^0.8.1"
+  }
+}
